@@ -1,19 +1,18 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0418FFFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#1ABC9C&height=120&section=header"/>
 
 ## Bem-vindo(a) ao perfil do Lucas Guidotti
 
-```javaScript
-class AboutMe {
+## 👨‍💻 Sobre mim
 
+```js
+class AboutMe {
   static NAME = "Lucas Guidotti";
   static BIO = "Back-End developer";
-  static LANGUAGES = ["JavaScript", "C", "Java", "PHP"];
+  static LANGUAGES = ["JavaScript", "C", "Java"];
   static EDUCATION = "Internet Systems Student";
   static LOCAL = "RS, Brasil";
 }
-
 ```
-
  <div>
    <a href="https://github.com/l-guidotti">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l-guidotti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -39,3 +38,4 @@ class AboutMe {
  
 
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#1ABC9C&height=120&section=footer"/>
