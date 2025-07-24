@@ -1,5 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0418FFFF&height=120&section=header"/>
-## Bem-vindo(a) ao perfil do Lucas Guidotti 
+
+## Bem-vindo(a) ao perfil do Lucas Guidotti
+
+```javaScript
+class AboutMe {
+
+  static NAME = "Lucas Guidotti";
+  static BIO = "Back-End developer";
+  static LANGUAGES = ["JavaScript", "C", "Java", "PHP"];
+  static EDUCATION = "Internet Systems Student";
+  static LOCAL = "RS, Brasil";
+}
+
+```
 
  <div>
    <a href="https://github.com/l-guidotti">
