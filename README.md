@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0418FFFF&height=120&section=header"/>
 ## Bem-vindo(a) ao perfil do Lucas Guidotti 
 
  <div>
